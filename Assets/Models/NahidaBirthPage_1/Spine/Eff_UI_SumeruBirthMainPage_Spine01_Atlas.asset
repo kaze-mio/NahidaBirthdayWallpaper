@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Eff_UI_SumeruBirthMainPage_Spine01_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 89639e2cb1a26ee42b7a97d430202e7d, type: 3}
+  materials:
+  - {fileID: 2100000, guid: c01b761e358ab4d47b7edbac042c12c2, type: 2}
+  - {fileID: 2100000, guid: 0b3c370dce32a194690aca8bb33b41b3, type: 2}
+  - {fileID: 2100000, guid: f3c1ee7c4456fc94a9b6f9224f9cf21e, type: 2}
+  - {fileID: 2100000, guid: 7fed08c94b857b74d8ada1e8bd81dff3, type: 2}
